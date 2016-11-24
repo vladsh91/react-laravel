@@ -30,6 +30,5 @@
     "psr-4": {
       "React\\": "lib/"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
